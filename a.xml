@@ -1,0 +1,24 @@
+<samples>
+<sample>
+ 	<procrank>
+ 		---crank---
+ 	</procrank>
+ 	<meminfo>
+ 		meminfo1.1
+ 	</meminfo>
+ 	<meminfo>
+ 		meminfo1.2
+ 	</meminfo>
+</sample>
+<sample>
+ 	<procrank>
+ 		---crank2---
+ 	</procrank>
+ 	<meminfo>
+ 		meminfo2.1
+ 	</meminfo>
+ 	<meminfo>
+ 		meminfo2.2
+ 	</meminfo>
+</sample>
+</samples>
